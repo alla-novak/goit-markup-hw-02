@@ -47,13 +47,6 @@ color: #434455;}
    color: #404bbf;
 }
 
-.page-footer{
- background-color: #2e2f42;
-}
-.footer-logo .logo-part{
-   color: #f4f4fd;
-}
-
 .title-section{
    background-color: #2e2f42;
 }
@@ -92,3 +85,66 @@ color: #2e2f42;
       color: #434455;
 }
 
+.team-section{
+   background-color: #f4f4fd;
+}
+.team-title{
+   font-size: 36px;
+      line-height: 1.11;
+      letter-spacing: 0.02em;
+      text-align: center;
+      color: #2e2f42;
+}
+.team-name{
+   font-weight: 500;
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: 0.02em;
+      text-align: center;
+      color: #2e2f42;
+}
+.team-dscr{
+   font-weight: 400;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      text-align: center;
+      color: #434455;
+}
+
+.portfolio-title{
+   font-size: 36px;
+      line-height: 1.11111;
+      letter-spacing: 0.02em;
+      text-align: center;
+      color: #2e2f42;
+}
+.portfolio-name{
+   font-weight: 500;
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: 0.02em;
+      color: #2e2f42;
+}
+.portfolio-descr{
+   font-weight: 400;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      color: #434455;
+}
+
+.page-footer {
+   background-color: #2e2f42;
+}
+
+.footer-logo .logo-part {
+   color: #f4f4fd;
+}
+.footer-note{
+   font-weight: 400;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      color: #f4f4fd;
+}
